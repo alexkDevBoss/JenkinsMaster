@@ -1,0 +1,3 @@
+{"Item":{"id":{"N":"1"},"age":{"N":"89"},"weight":{"N":"100"}}}
+{"Item":{"id":{"N":"2"},"age":{"N":"10"},"NewList":{"NS":["2","1"]},"height":{"N":"183"}}}
+{"Item":{"id":{"N":"1"},"age":{"N":"10"},"name":{"S":"Alex"},"visa":{"BOOL":true}}}
